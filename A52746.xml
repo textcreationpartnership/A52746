@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Necessity of setling the crown of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52746</idno>
+            <idno type="STC">Wing N372</idno>
+            <idno type="STC">ESTC R4305</idno>
+            <idno type="EEBO-CITATION">12969012</idno>
+            <idno type="OCLC">ocm 12969012</idno>
+            <idno type="VID">96143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96143)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 393:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Necessity of setling the crown of England</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:96143:1"/>
+            <pb n="1" facs="tcp:96143:1"/>
+            <head>THE NECESSITY OF SETLING THE Crown of England.</head>
+            <p>WITHOUT making particular remarks upon what I am about to acquaint the Reader with, which is bare mat<g ref="char:EOLhyphen"/>ter of Fact, or any application thereof to our preſent circumſtances, as ſuppoſing the deſign of this Paper ob<g ref="char:EOLhyphen"/>vious to all Men's underſtandings at the firſt view; I ſhall in the Firſt place, relate ſome of thoſe conſiderati<g ref="char:EOLhyphen"/>ons, that induced the whole Parliament in the Twenty eighth year of Queen <hi>Elizabeth</hi>'s Reign to petition the Queen, That ſentence of Death, which had been given againſt <hi>Mary</hi> Queen of <hi>Scots,</hi> might be put in Execution; And <hi>Secondly,</hi> I ſhall repreſent how the Succeſſion to the Crown of <hi>England</hi> now ſtands, and into what Families it is likely to come, if care be not taken thereof in this preſent Convention.</p>
+            <p>The Parliament in the Twenty eighth of <hi>Elizabeth</hi> was Summon'd and Aſſem<g ref="char:EOLhyphen"/>bled upon no other cauſe, or ground, than the timely, and ſtrange Diſcovery of that bloody, and mercileſs Treaſon Plotted by <hi>Babington,</hi> and others, for the vio<g ref="char:EOLhyphen"/>lent taking away of her Majeſty's Life, of which <hi>Mary</hi> Queen of <hi>Scots</hi> had been firſt by a moſt Juſt and Honourable Trial fully Convicted, and afterwards ju<g ref="char:EOLhyphen"/>dicially pronounced to have been in a high nature Guilty. But yet her Majeſty not being ſatisfied with her ſo juſt Trial and Attaindure, Aſſembled the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> on purpoſe, that ſo all thoſe former Proceedings, how juſt ſoever, might be further committed and referred to the Impartial Examination, and Final Judgment of the whole Realm.</p>
+            <p>Both Houſes of Parliament Unanimouſly voted the Sentence to be juſt, true and honourable, and Petition'd the Queen that Execution might be done; for that they could find no other way to ſecure her Majeſty's ſafety, and that of theſe Realms.</p>
+            <pb n="2" facs="tcp:96143:2"/>
+            <p>The Reaſons upon which they grounded their Petition, I ſhall put down, as ſuccinctly as I can, out of Sir <hi>Simon D'Ewe</hi>'s Journal of Queen <hi>Elizabeth</hi>'s Parlia<g ref="char:EOLhyphen"/>ments; and they are as follow, <hi>viz.</hi>
+            </p>
+            <p>For that they had a long time, to their intolerable grief, ſeen by how mani<g ref="char:EOLhyphen"/>fold, moſt dangerous and execrable practices, the ſaid Queen of <hi>Scots</hi> had com<g ref="char:EOLhyphen"/>paſſed the deſtruction of her Majeſty's perſon, thereby not only to bereave them of the ſincere and true Religion of Almighty God, bringing them and this Noble Crown back again into the Thraldom of the <hi>Romiſh</hi> Tyranny, but alſo ut<g ref="char:EOLhyphen"/>terly to ruinate, and overthrow the happy State and Commonweal of this moſt Noble Realm: to Baniſh and deſtroy the Profeſſors and Profeſſing of the true Re<g ref="char:EOLhyphen"/>ligion of <hi>Jeſus Chriſt,</hi> and the ancient Nobility of this Land, and to bring this whole State and Commonweal to Foreign Subjection, and to utter ruine and con<g ref="char:EOLhyphen"/>fuſion; which malicious purpoſes would never ceaſe to be proſecuted by all poſſible means, ſo long as the ſaid Queen's Confederates, her Miniſters, and Favourers had their eyes and imaginations fixed upon the ſaid Queen, the only ground of their Treaſonable hopes and conceits, and the only Seed-plot of all dangerous and traiterous Devious and Practices againſt her Majeſty's Sacr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Perſon. And for that upon Adviſed and great Conſultation they could not find any poſſible means to provide for her Majeſty's Safety, but by the juſt and ſpeedy Execution of the ſaid Queen, the neglecting whereof might procure the heavy diſpleaſure and puniſhment of Almighty God, as by ſundry ſevere Examples of his great Juſtice in that behalf left us in ſacred Scripture, doth appear; and that if the ſame were not put in Execution, they ſhould thereby (ſo far as man's reaſon could reach) be brought into utter diſpair of the continuance amongſt them of the true Religion of Almighty God, and of her Majeſty's Life, and of the ſafety of all the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubjects, and of the good eſtate of this Flouriſhing Commonweal.</p>
+            <p>For that ſhe (the ſaid Queen of <hi>Scots</hi>) had continually breathed the over<g ref="char:EOLhyphen"/>throw and ſuppreſſion of the <hi>Proteſtant Religion,</hi> being poiſoned with <hi>Popery</hi> from her tender Youth, and at her Age joining in that falſe termed <hi>Ho<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>eague,</hi> and had been ever ſince, and was then a profeſſed Enemy of the Truth.</p>
+            <p>For that ſhe reſted wholly upon <hi>Popiſh</hi> hopes, to be delivered and ad<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nced, and was ſo devoted and doted in that Profeſſion, that ſhe would (as well for the ſa<g ref="char:EOLhyphen"/>tisfaction of others, as for the feeding her own humour) ſupplant the Goſpel where and whenſoever ſhe might: Which evil was ſo much the greater, and the more to be avoided, for that it ſlayeth the Soul, and would ſpread it ſelf not only over <hi>England</hi> and <hi>Scotland,</hi> but alſo into all parts beyond the Sea, where the Goſpel of God is maintained; the which cannot but be exceedingly weakned, if de<g ref="char:EOLhyphen"/>fection ſhould be in theſe two moſt valiant Kingdoms.</p>
+            <p>For that if ſhe prevailed, ſhe would rather take the Subjects of <hi>England</hi> for Slaves than for Children.</p>
+            <p>For that ſhe had already provided them a Foſter-father and a Nurſe, the <hi>Pope</hi> and the King of <hi>Spain;</hi> into whoſe hands, if it ſhould happen them to fall, what could they elſe look for, but ruine, deſtruction and utter extirpation of Goods, Lands, Lives, Honour and all?</p>
+            <p>For that, as ſhe had already by her poiſoned baits, brought to deſtruction more Noble men and their Houſes, and a greater multitude of Subjects, during her being here, than ſhe would have done, if ſhe had been in poſſeſſion of her own Country, and armed in the Field againſt them; ſo would ſhe be ſtill con<g ref="char:EOLhyphen"/>tinually the cauſe of the like ſpoil, to the greater loſs and peril of this Eſtate; and therefore this Realm neither could, nor mought endure her.</p>
+            <pb n="3" facs="tcp:96143:2"/>
+            <p>For that her Sectaries both Wrote and Printed, that the <hi>Proteſtants</hi> would be at their wit's end, world's end, if ſhe ſhould overlive Queen <hi>Elizabeth:</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereby, that the end of the <hi>Proteſtant</hi> world was the beginning of their own and therefore if ſhe, the ſaid Queen of <hi>Scots,</hi> were taken away, their world would be at an end before its beginning.</p>
+            <p>For that ſince the ſpairing of her in the fourteenth year of Queen <hi>Elizabeth</hi>'s Reign, Popiſh Traitors, and Recuſants had multiplied exceedingly: And if ſhe were now ſpared again, they would grow both innumerable and invincible alſo: And therefore mercy in that caſe would prove cruelty againſt them all: <hi>Nam eſt quaedam crudelis miſericordia;</hi> and therefore to ſpare her blood, would be to ſpill all theirs.</p>
+            <p>For that God's Vengeance againſt <hi>Saul</hi> for ſparing the Life of <hi>Agag,</hi> and a<g ref="char:EOLhyphen"/>gainſt <hi>Ahab</hi> for ſparing the Life of <hi>Benhadad,</hi> was moſt apparent; for they were both by the juſt Judgment of God deprived of their Kingdoms, for ſparing thoſe wicked Princes, whom God had delivered into their hands. And thoſe Magiſtrates were much commended, who put to death thoſe miſchievous and wicked Queens, <hi>Jezabel</hi> and <hi>Athalia.</hi>
+            </p>
+            <p>How far theſe Reaſons, that then ſwayed with the Lords, both <hi>Spiritual</hi> and <hi>Temporal,</hi> and all the Commons, to Petition the Queen for the Execution of <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> Queen of <hi>Scots,</hi> ought in this preſent Conjuncture of Affairs to ſway with the people of <hi>England</hi> againſt any Application to, or coming to any manner of Ac<g ref="char:EOLhyphen"/>commodation with the now withdrawn <hi>King,</hi> will farther appear, if we take a view how the Succeſſion to the Crown of <hi>England</hi> now ſtands, and into what Families we are like to fall, if timely remedy be not carefully applied.</p>
+            <p>I ſhall ſay no more of the pretended Prince of <hi>Wales,</hi> than this, That if he be an Impoſture, who ſhall ſecure us againſt having many more ſuch tricks play'd us? If he be not an Impoſture, he ought at leaſt to be delivered into Prote<g ref="char:EOLhyphen"/>ſtant hands, to be Educated in that Religion, which whoever comes to be King or Queen of <hi>England</hi> muſt ſwear to Maintain and Defend: If not, every man is at liberty to imagine, what the Nation may expect from ſuch a Succeſſor.</p>
+            <p>The next Heir to the <hi>Engliſh</hi> Crown, after the two Princeſſes, and the Prince of <hi>Orange,</hi> was the Princeſs <hi>Henrietta,</hi> King <hi>Charles</hi> the Firſt's Youngeſt Daughter, ſhe was Married to the only Brother of the <hi>French</hi> King, by whom ſhe had Iſſue, two Daughters; the Elder of which is Married to <hi>Charles</hi> the Second of that name, now King of <hi>Spain,</hi> by whom ſhe as yet had no Iſſue.</p>
+            <p>The younger Daughter is Married to the Duke of <hi>Savoy;</hi> by whom ſhe hath Children.</p>
+            <p>The next Heir to the Crown of <hi>England,</hi> is the Princeſs <hi>Louiſa,</hi> only Daugh<g ref="char:EOLhyphen"/>ter of <hi>Charles Lodowick,</hi> Prince Palatine, Married to the preſent Duke of <hi>Or<g ref="char:EOLhyphen"/>leans,</hi> by whom ſhe hath divers Children.</p>
+            <p>The next Heir to the Crown of <hi>England,</hi> after the Iſſue of the preſent Dutcheſs of <hi>Orleans,</hi> were three <hi>French</hi> Ladies, Daughters of Prince <hi>Edward,</hi> who was a Younger Son of the Queen of <hi>Bohemia;</hi> the Eldeſt of theſe is Married to the Duke <hi>d' Enguien,</hi> Eldeſt Son to the Prince of <hi>Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de,</hi> the other two <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e dead with<g ref="char:EOLhyphen"/>out Iſſue.</p>
+            <pb n="4" facs="tcp:96143:3" rendition="simple:additions"/>
+            <p>So that unleſs the Nation take advantage of this opportunity, now ſo mira<g ref="char:EOLhyphen"/>culouſly put into their hands by Almighty God, of ſecuring to themſelves their Religion, and Liberties, and ſecuring the Government in Proteſtant hands; what can we expect, but to be delivered up in a few years ſpace, to a <hi>Spaniſh Inquiſi<g ref="char:EOLhyphen"/>tion,</hi> to <hi>French Dragooning,</hi> to <hi>Maſſacres,</hi> and all ſorts of perſecutions, which the poor Proteſtants have been haraſſed with in thoſe Countries, by Princes of an in<g ref="char:EOLhyphen"/>veterate and hereditary malice to us and our Religion; from whoſe Families we ſhall be forced to admit of Succeſſors?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1689.</p>
+            <pb facs="tcp:96143:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
